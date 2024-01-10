@@ -1,0 +1,82 @@
+nav{
+    text-align: center;
+    font-size: 40px;
+    color: #f30909;
+   
+}
+.dry{
+    margin-bottom: 5px;
+   
+    
+}
+.new{
+    margin-bottom: 4px;
+}
+.cel{
+    margin-top: 5px;
+}
+.header{
+    background-image: url(B9A1-New-Year-New-Mission-main/resources/Banner\ Image.png);
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+border-radius: 16px;
+background-size: cover;
+background-position: center;
+
+}
+.water{
+ color: #F00;
+
+text-align: center;
+font-family: Inter;
+font-size: 65px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.tohid{
+    color: #F00;
+
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.mizan{
+    color: #070211;
+
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.main{
+    color: #cab8b8;
+
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+
+}
+.just{
+    background-image: url(B9A1-New-Year-New-Mission-main/resources/Vectorrr.png);
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+
+}
+
+.kkk{
+ padding-right: 700px;
+ justify-content: right;
+}
+.class{
+    justify-content: right;
+}
